@@ -1,5 +1,7 @@
 # Apollo Client 3.7.0 context issue
 
+https://github.com/apollographql/apollo-client/issues/10166
+
 
 1. run `yarn test` and see it fails.
 2. change apollo client version to `3.6.10` in pacakge.json, and run `yarn test`. (it succeeds)
